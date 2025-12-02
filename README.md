@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my work as a Data Engineer & Data Analyst. Built with vanilla HTML, CSS, and JavaScript - no frameworks required!
 
-🌐 **Live Site:** [View Portfolio](https://shashankbanala.github.io/portfolio)
+🌐 **Live Site:** [View Portfolio](https://shashankbanala.github.io/Portfolio/)
 
 ## 👨‍💻 About Me
 
