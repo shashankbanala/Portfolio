@@ -49,54 +49,6 @@ Portfolio/
 └── README.md                   # This file
 ```
 
-## 🚀 Getting Started
-
-### Local Development
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shashankbanala/portfolio.git
-   cd portfolio
-   ```
-
-2. Open `index.html` in your browser:
-   - Simply double-click the file, or
-   - Use a local server:
-     ```bash
-     # Using Python
-     python -m http.server 8000
-     
-     # Using Node.js
-     npx http-server -p 8000
-     ```
-
-3. Visit `http://localhost:8000` in your browser
-
-## 🌐 Deployment
-
-### GitHub Pages (Free Hosting)
-
-1. Push your code to GitHub:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git remote add origin https://github.com/shashankbanala/portfolio.git
-   git branch -M main
-   git push -u origin main
-   ```
-
-2. Enable GitHub Pages:
-   - Go to repository Settings → Pages
-   - Select "Deploy from a branch"
-   - Choose `main` branch and `/ (root)` folder
-   - Click Save
-
-3. Your site will be live at:
-   ```
-   https://shashankbanala.github.io/portfolio
-   ```
-
 ## 📞 Contact
 
 - **Email:** [shashankbanala49@gmail.com](mailto:shashankbanala49@gmail.com)
