@@ -632,6 +632,23 @@ section {
     color: var(--text-light);
 }
 
+.contact-item p a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: all 0.3s ease;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.contact-item p a:hover {
+    color: var(--accent-color);
+    transform: translateY(-2px);
+}
+
+.contact-item p a i {
+    margin-right: 5px;
+}
+
 .social-links {
     display: flex;
     justify-content: center;
