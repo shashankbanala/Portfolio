@@ -6,9 +6,9 @@ A modern, responsive portfolio website showcasing my work as a Data Engineer & D
 
 ## 👨‍💻 About Me
 
-Data Engineer / Data Analyst with 4+ years of experience building cloud-based data pipelines, warehouse models, and ETL workflows across AWS, Azure, and Snowflake. Skilled in Python, SQL, and Spark for automating data ingestion, transformation, and data quality workflows.
+Data Engineer with 5 years of experience designing and deploying scalable data pipelines and analytics solutions across AWS, Azure, and Snowflake environments. Proficient in SQL, Python, PySpark, and tools such as dbt, Airflow, S3, Glue, Azure Data Factory, Apache Kafka, and Terraform.
 
-Experienced in applying machine learning and GenAI tools including OpenAI APIs and vector databases to support anomaly detection, data validation, and reporting automation.
+Skilled in building dimensional data models (Star/Snowflake schemas), implementing data quality frameworks, optimizing Snowflake query performance and cloud costs, and developing Tableau and Power BI dashboards to drive business insights. Proven ability to troubleshoot ETL/ELT workflows, implement CI/CD pipelines, and support cross-functional teams in delivering timely, reliable data for reporting and analytics.
 
 ## ✨ Features
 
@@ -51,8 +51,8 @@ Portfolio/
 
 ## 📞 Contact
 
-- **Email:** [shashankbanala49@gmail.com](mailto:shashankbanala49@gmail.com)
-- **Phone:** +1 (984) 286-8221
+- **Email:** [shashankds089@gmail.com](mailto:shashankds089@gmail.com)
+- **Phone:** +1 (469) 209-9752
 - **LinkedIn:** [linkedin.com/in/shashankbanala](https://www.linkedin.com/in/shashankbanala)
 - **GitHub:** [github.com/shashankbanala](https://github.com/shashankbanala)
 
@@ -63,24 +63,26 @@ Portfolio/
 
 **Certifications:**
 - SnowPro Core Certification - Snowflake
-- Oracle Cloud Infrastructure Data Platform Associate
-- Microsoft Azure Data Fundamentals (DP-900)
-- Generative AI with Large Language Models - DeepLearning.AI
 - dbt Fundamentals Badge - dbt Labs
+- Snowflake Hands-on Labs (Project Badges) - Snowflake
+- Generative AI with Large Language Models - DeepLearning.AI (Coursera)
 
 ## 💼 Professional Experience
 
-- **Data Engineer** at Inspira Financial (Oct 2024 - Present)
-- **Data Analyst** at Wipro (Jan 2020 - Dec 2022)
+- **Data Engineer** at Inspira Financial (Aug 2024 - Present)
+- **Data and Reporting Analyst** at University of Massachusetts Dartmouth (Aug 2023 - July 2024)
+- **Data Engineer** at MTX Group (Jan 2021 - Dec 2022)
+- **Data Engineer Intern** at Zemoso Technologies (July 2020 - Dec 2020)
 
 ## 🌟 Key Skills
 
-- **Data Engineering:** ETL Pipelines, Data Modeling, Apache Airflow, dbt, PySpark, Databricks, Delta Lake
-- **Cloud Platforms:** AWS (S3, Glue, Redshift, Lambda), Azure (Data Factory, Synapse, OpenAI), GCP, Snowflake
-- **Programming:** Python, R, SQL, Bash, Pandas, NumPy
-- **ML & GenAI:** scikit-learn, OpenAI APIs, LangChain, Hugging Face, Vector DBs, RAG Pipelines
-- **Visualization:** Tableau, Power BI, Excel, Power Automate
-- **Databases:** Snowflake, PostgreSQL, MySQL, SQL Server, MongoDB
+- **Data Engineering:** ETL Pipelines, Data Modeling, Apache Airflow, Apache Kafka, dbt, PySpark, Databricks, Delta Lake
+- **Cloud Platforms:** AWS (S3, Glue, Redshift, Lambda), Azure (Data Factory, Synapse, Data Lake Storage), Snowflake
+- **Programming:** Python, SQL, Java, Bash, Pandas, NumPy
+- **ML & AI:** scikit-learn, Feature Engineering, Regression, Classification, Clustering, Anomaly Detection, Predictive Analytics
+- **Visualization:** Tableau, Power BI, Excel
+- **Databases:** Snowflake, PostgreSQL, MySQL, SQL Server, Oracle, DynamoDB
+- **DevOps:** Git, Azure DevOps, Docker, Kubernetes, Terraform
 
 ## 📝 License
 
