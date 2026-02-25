@@ -51,7 +51,7 @@ Portfolio/
 
 ## 📞 Contact
 
-- **Email:** [shashankds089@gmail.com](mailto:shashankds089@gmail.com)
+- **Email:** [bshashank226@gmail.com](mailto:bshashank226@gmail.com)
 - **Phone:** +1 (469) 209-9752
 - **LinkedIn:** [linkedin.com/in/shashankbanala](https://www.linkedin.com/in/shashankbanala)
 - **GitHub:** [github.com/shashankbanala](https://github.com/shashankbanala)
